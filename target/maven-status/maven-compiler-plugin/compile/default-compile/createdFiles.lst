@@ -1,0 +1,9 @@
+com\restapi\restapigcp\Entity\Product.class
+com\restapi\restapigcp\service\VisitorService.class
+com\restapi\restapigcp\Entity\Visitor.class
+com\restapi\restapigcp\service\ProductService.class
+com\restapi\restapigcp\RestapigcpApplication.class
+com\restapi\restapigcp\controller\VisitorController.class
+com\restapi\restapigcp\repository\ProductRepository.class
+com\restapi\restapigcp\controller\ProductController.class
+com\restapi\restapigcp\repository\VisitorRepository.class
